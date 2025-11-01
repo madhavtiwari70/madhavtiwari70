@@ -19,7 +19,7 @@ I am passionate about applying theoretical concepts to practical problems. My cu
 * **Working Student (Quantum Algorithms) @ Fraunhofer AISEC**
     * Developing hybrid quantum-classical algorithms for optimization and risk assessment in cybersecurity.
     * Implementing data-driven simulations using Python, Qiskit, and PennyLane.
-    * **[View Project Overview & Methodologies ->](https*://github.com/YOUR-USERNAME/fraunhofer-quantum-security-research)**
+    * **[View Project Overview & Methodologies ->](https*://github.com/madhavtiwari70/fraunhofer-quantum-security-research)**
 
 * **Summer Research Intern @ Queen's University Belfast**
     * Investigated stochastic processes and Markov models in quantum measurement theory.
