@@ -1,47 +1,34 @@
 # Madhav Tiwari
-### MSc Physics Student @ LMU Munich | Quantum Algorithms & Machine learning Researcher
-
-- 📧 **Email:** [madhavtiwari70@gmail.com](mailto:madhavtiwari70@gmail.com)
-- 🔗 **LinkedIn:** [Your-LinkedIn-URL-Here]
+📧 [madhavtiwari70@gmail.com](mailto:madhavtiwari70@gmail.com) · 🔗 [LinkedIn](https://your-linkedin-url)
 
 ---
 
-### About Me
+### Quantum computing × AI — for problems that actually matter.
 
-I am a Master's student in Physics at LMU Munich with a strong foundation in **quantum information theory** and hands-on research experience. My current work at **Fraunhofer AISEC** involves developing and implementing hybrid quantum-classical algorithms for machine learning, with direct applications in cybersecurity.
+I build at the edge of what quantum hardware can do today, not what it might do in 10 years.
 
-I am proficient in quantum computing frameworks like **Qiskit** and **PennyLane** and am actively seeking a Summer 2025 internship in **quantum algorithms** and research.
-
-### 🔬 Research & Work Experience
-
-I am passionate about applying theoretical concepts to practical problems. My current and past work includes:
-
-* **Working Student (Quantum Algorithms) @ Fraunhofer AISEC**
-    * Developing hybrid quantum-classical algorithms for optimization and risk assessment in cybersecurity.
-    * Implementing data-driven simulations using Python, Qiskit, and PennyLane.
-    * **[View Project Overview & Methodologies ->](https*://github.com/madhavtiwari70/fraunhofer-quantum-security-research)**
-
-* **Summer Research Intern @ Queen's University Belfast**
-    * Investigated stochastic processes and Markov models in quantum measurement theory.
-    * Utilized Monte Carlo simulations to analyze noise effects on quantum systems.
-
-### 🛠️ Core Competencies & Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Quantum Computing** | Quantum Information Theory, Quantum Algorithms, Quantum Error Correction, Qiskit, PennyLane, IBM-Q Experience |
-| **Data Science & ML** | Statistical Modeling, Machine Learning, Time Series Analysis, Monte Carlo Simulations, Probabilistic Modeling |
-| **Languages & Tools** | Python, Mathematica, C++, Matlab, Scilab, Pandas, NumPy, Scikit-learn, Power BI, Git |
-| **Mathematics** | Linear Algebra, Probability Theory, Numerical Optimization, Stochastic Processes |
-
-### Academic Research & Projects
-
-* **[Showcase] The Emergence of Quantum Darwinism and the Nature of Bipartite Entanglement**
-    * *Abstract:* Explored the quantum-to-classical transition by investigating the emergence of pointer states. Analyzed delay information plateau formation in the presence of environmental interactions.
-    * **[View Project Details ->](https*://github.com/YOUR-USERNAME/quantum-darwinism-project)**
-
-* **[Showcase] A Review of Quantum Error Correction**
-    * *Abstract:* Explored foundational methods for preserving fragile quantum states, including Shor's code, bit flip, and phase flip codes. Implemented simulations on IBM Quantum hardware.
-    * **[View Project Details ->](https*://github.com/YOUR-USERNAME/quantum-error-correction-review)**
+**~1,000** students reached · **96%** parameter reduction vs SOTA · **8+ world-class speakers** via cold outreach
 
 ---
+
+#### What I'm building
+
+**[QSynth](https://github.com/madhavtiwari70/qsynth)** — IQP-circuit synthetic data for fraud detection. Outperforms classical baselines on MMD², correlation similarity, and TSTR AUC. Targets the class-imbalance problem where GANs collapse.
+`IQP circuits` `synthetic data` `PennyLane`
+
+**Quantum generative models @ minimum data** — How little data does a quantum model actually need? Found a circuit architecture with 96% fewer parameters than published SOTA, matching distributional quality. Built all evaluation tooling from scratch: MMD² scaling, sample complexity curves, elbow detection. Open-sourcing as a synthetic data toolkit for healthcare: rare disease cohorts, genomic studies, clinical trials.
+`IQP` `healthcare AI` `JAX`
+
+---
+
+#### Beyond code
+
+**BMUCO** (founded 2017) — deep tech education infrastructure for the Global South. Cold-emailed Roger Penrose, Maryna Viazovska, and a NASA Program Manager. They said yes. ~1,000 people reached. Scientific Advisor: Prof. Yang-Hui He (Oxford / MIT).
+
+**Quantum Algorithms @ Fraunhofer AISEC** — Hybrid QML for cybersecurity optimization and risk assessment.
+
+**LMS Research Bursary** — Quantum Darwinism and stochastic processes in quantum measurement, under Prof. Mauro Paternostro, QUB.
+
+---
+
+`Qiskit` `PennyLane` `JAX` `Python` `NumPy` `Scikit-learn` `Mathematica` `C++`
