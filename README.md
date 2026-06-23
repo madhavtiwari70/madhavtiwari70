@@ -23,7 +23,7 @@ I build at the edge of what quantum hardware can do today, not what it might do 
 
 #### Beyond code
 
-**BMUCO** (founded 2017) — deep tech education infrastructure for the Global South. Cold-emailed Roger Penrose, Maryna Viazovska, and a NASA Program Manager. They said yes. ~1,000 people reached. Scientific Advisor: Prof. Yang-Hui He (Oxford / MIT).
+**BMUCO** (founded 2017) — deep tech education infrastructure for the Global South. Scientific Advisor: Prof. Yang-Hui He (Oxford / MIT).
 
 **Quantum Algorithms @ Fraunhofer AISEC** — Hybrid QML for cybersecurity optimization and risk assessment.
 
